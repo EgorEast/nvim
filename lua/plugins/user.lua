@@ -20,6 +20,9 @@ return {
     },
     config = function()
       require("codeium").setup({
+        virtual_text = {
+          enabled = true
+        }
       })
     end
   },
