@@ -11,7 +11,7 @@ return {
         "lua_ls",
         "cssls",
         "cssmodules_ls",
-        "emmet_ls",
+        "emmet_language_server",
         "html",
         "ts_ls"
         -- add more arguments for adding more language servers
